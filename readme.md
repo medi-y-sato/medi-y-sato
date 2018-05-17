@@ -1,25 +1,17 @@
-# sindresorhus [![Build Status](https://travis-ci.org/sindresorhus/sindresorhus.svg?branch=master)](https://travis-ci.org/sindresorhus/sindresorhus)
+# 自己紹介CLI
 
-> The [Sindre Sorhus](https://sindresorhus.com) CLI
-
-<img src="screenshot.png" width="752">
+https://github.com/sindresorhus/sindresorhus のまんまパクり
 
 
-## Usage
+# usage
 
-Install Node.js, then:
+node.jsを入れて、
 
-```
-$ npx sindresorhus
+``` sh
+$ npx medi-y-sato
 ```
 
 
-## Built with
+# License
 
-- [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
-- [terminal-image](https://github.com/sindresorhus/terminal-image) - Display images in the terminal
-
-
-## License
-
-MIT © [Sindre Sorhus](https://sindresorhus.com)
+元を継承して MIT © medi-y-sato
