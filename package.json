@@ -1,16 +1,16 @@
 {
-	"name": "sindresorhus",
-	"version": "2.0.1",
-	"description": "The Sindre Sorhus CLI",
+	"name": "medi-y-sato",
+	"version": "0.0.1",
+	"description": "medi-y-sato の CLI",
 	"license": "MIT",
-	"repository": "sindresorhus/sindresorhus",
+	"repository": "medi-y-sato/medi-y-sato",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"name": "Yoshiaki Satoh",
+		"email": "y-sato@mediba.jp",
+		"url": "https://github.com/medi-y-sato"
 	},
 	"bin": {
-		"sindresorhus": "source/cli.js"
+		"medi-y-sato": "source/cli.js"
 	},
 	"engines": {
 		"node": ">=8"
